@@ -1,0 +1,18 @@
+body {
+    background-image: url("https://i0.wp.com/studyabroadblog.drexel.edu/wp-content/uploads/2022/08/Screen-Shot-2022-08-14-at-7.02.49-PM.png?resize=800%2C900&ssl=1");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }

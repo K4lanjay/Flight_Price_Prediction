@@ -11,7 +11,7 @@
 
 ## Demo
 
-![](https://github.com/K4lanjay/Flight_Price_Prediction/blob/main/Screenshot.png))
+![](https://github.com/K4lanjay/Flight_Price_Prediction/blob/main/Screenshot.png)
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
